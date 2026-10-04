@@ -1,0 +1,8 @@
+{
+  "name": "Remix Interactive Annual Report",
+  "description": "Interactive 2026 Annual Impact Report for South India’s Living Urban Ecosystem, showcasing quantitative biodiversity data, rooftop apiary expansion across Karnataka, Tamil Nadu, Kerala, and Andhra Pradesh, with latest IMD climate and monsoon data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
